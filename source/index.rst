@@ -10,7 +10,6 @@ Welcome to FitMotion's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   motion_optimize
    intro
 
 
